@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Harshit Kumar Mishra!
 
-🎓 I'm a 4th-year B.Tech student at [Chatrapati Shahu Ji Maharaj University, Kanpur (CSJMU)], passionate about full-stack web development, data structures & algorithms, and building impactful software.
+🎓 I'm a 4th-year B.Tech IT student at [Chatrapati Shahu Ji Maharaj University, Kanpur (CSJMU)], passionate about full-stack web development, data structures & algorithms, and building impactful software.
 
 ---
 
