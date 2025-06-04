@@ -11,7 +11,7 @@
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Tools & Platforms**: Git, GitHub, VS Code, REST APIs
-- **CS Fundamentals**: Object-Oriented Programming (OOP), Operating Systems, DBMS
+- **CS Fundamentals**: Object-Oriented Programming (OOP), data structures & algorithms, DBMS
 
 ---
 
