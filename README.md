@@ -73,7 +73,7 @@ Interactive memory game built in JavaScript.
 ## 📫 Connect with Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/harshitkm-)  
-- 🧾 [Resume (Latest)](https://drive.google.com/file/d/1PPNeXQ-hQtxJhsjsFuZLZCT4PUAvyoDk/view?usp=drivesdk)  
+- 🧾 [Resume]([https://drive.google.com/file/d/1PPNeXQ-hQtxJhsjsFuZLZCT4PUAvyoDk/view?usp=drivesdk](https://drive.google.com/file/d/1JYgGiT8RStrEW-FtT_T9prJOetKR_HLi/view?usp=drive_link))  
 - 🖥️ [GitHub](https://github.com/Harshit-1264)  
 
 ---
