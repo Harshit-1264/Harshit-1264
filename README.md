@@ -64,8 +64,8 @@ Interactive memory game built in JavaScript.
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshit-1264&show_icons=true&theme=tokyonight" alt="Harshit's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit-1264&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshit-1264&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harshit-1264&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
