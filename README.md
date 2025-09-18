@@ -27,7 +27,7 @@
 ## 📘 DSA Practice  
 
 I actively solve problems on:  
-- [LeetCode](https://leetcode.com/u/Harshit2531/) (150+ problems solved)  
+- [LeetCode](https://leetcode.com/u/Harshit2531/) 
 - [GeeksforGeeks](https://www.geeksforgeeks.org/user/harshitkumarnbyi/)  
 
 🔎 Focus areas: Arrays, Strings, Graphs, Trees, DP, Recursion, Sliding Window, Two Pointers  
