@@ -8,19 +8,32 @@
 💻 Passionate about **Full-Stack Web Development, DSA, and building impactful software**  
 
 ---
-
 ## 🛠️ Tech Stack  
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+**💻 Languages:**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**⚛️ Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+
+**🛠 Backend & DB:**  
+![Node.js](https://img.shields.io/badge/Node-43853D?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4F00?style=flat)
+
+**🤖 AI & Tools:**  
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
 
 ---
 
@@ -35,6 +48,10 @@ I actively solve problems on:
 ---
 
 ## 🚀 Projects  
+
+### 🤖 DevDoc
+🔗 [GitHub](https://github.com/Harshit-1264/devDoc) 
+AI-powered RAG system built with Next.js, Node.js & LangChain.js. Enables semantic search and context-aware Q&A across documents, YouTube transcripts, and webpages using vector embeddings (Qdrant) and Google Gemini.
 
 ### ✅ [TaskFlow](https://taskflow-frontend-fbvt.onrender.com/)  
 🔗 [GitHub](https://github.com/Harshit-1264/taskflow)  
@@ -73,7 +90,7 @@ Interactive memory game built in JavaScript.
 ## 📫 Connect with Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/harshitkm-)  
-- 🧾 [Resume](https://drive.google.com/file/d/1JYgGiT8RStrEW-FtT_T9prJOetKR_HLi/view?usp=drive_link)  
+- 🧾 [Resume](https://drive.google.com/file/d/1QsefvbUwKaqhi8-fFeN_Px9Nmp7TbKsZ/view)  
 - 🖥️ [GitHub](https://github.com/Harshit-1264)  
 
 ---
